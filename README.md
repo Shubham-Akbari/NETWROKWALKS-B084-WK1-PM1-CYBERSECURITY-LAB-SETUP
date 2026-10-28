@@ -208,7 +208,7 @@ This laboratory is intended **strictly for educational purposes**. Only test sys
 
 ## 👤 Author
 
-**Shubham Akbari**
+**Akbari Shubham**
 
 ## 📌 Project Information
 
