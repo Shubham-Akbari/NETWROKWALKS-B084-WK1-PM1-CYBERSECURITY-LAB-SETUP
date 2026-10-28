@@ -208,9 +208,7 @@ This laboratory is intended **strictly for educational purposes**. Only test sys
 
 ## 👤 Author
 
-**Waqas Karim**
-Cybersecurity Professional B082
-[LinkedIn](https://www.linkedin.com/in/waqaskarim/)
+**Shubham Akbari**
 
 ## 📌 Project Information
 
